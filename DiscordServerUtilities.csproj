@@ -11,4 +11,9 @@
     <PackageReference Include="DSharpPlus.Interactivity" Version="4.2.0-nightly-00962" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DB\" />
+    <Folder Include="Handlers\" />
+  </ItemGroup>
+
 </Project>
