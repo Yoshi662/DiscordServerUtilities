@@ -17,5 +17,7 @@ namespace DiscordServerUtilities.Model
 		public ulong LoggingChannelID { get; private set; }
 		public string DataBasePath { get; private set; }
 		public string Version { get; set; }
+		public string prefix { get; set; }
+		public string debugprefix { get; set; }
 	}
 }
